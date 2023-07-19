@@ -1,2 +1,2 @@
 # CMNPD-database
-Bioactive Compounds in Sea Cucumbers (Stichopus sp) as Conducted Using the CMNPD Database
+[![DOI](https://zenodo.org/badge/668067759.svg)](https://zenodo.org/badge/latestdoi/668067759)
